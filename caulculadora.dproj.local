@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/11/06 10:07:12.000.442,=C:\Users\Arthur Fonseca\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/06 10:10:13.000.137,C:\Users\Arthur Fonseca\Documents\Aula1\core.calculadora.dfm=C:\Users\Arthur Fonseca\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/11/06 10:10:13.000.137,C:\Users\Arthur Fonseca\Documents\Aula1\core.calculadora.pas=C:\Users\Arthur Fonseca\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/06 10:10:21.000.459,C:\Users\Arthur Fonseca\Documents\Aula1\caulculadora.dproj=C:\Users\Arthur Fonseca\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/11/06 10:10:28.000.436,=C:\Users\Arthur Fonseca\Documents\Aula1\Unit2.pas</Transaction>
+    <Transaction>2023/11/06 12:09:15.000.263,C:\Users\Arthur Fonseca\Documents\Aula1\frmCalculadora.pas=C:\Users\Arthur Fonseca\Documents\Aula1\Unit2.pas</Transaction>
+    <Transaction>2023/11/06 12:09:15.000.263,C:\Users\Arthur Fonseca\Documents\Aula1\frmCalculadora.dfm=C:\Users\Arthur Fonseca\Documents\Aula1\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
